@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(#ff0040,#ff00bf,#8000ff,#0040ff,#00ffff );
+    color: white;
+
+}
+.heading{
+    font-size:30 ;
+    font-family:Shalimar ;
+    font-style: italic;
+    font-weight: bold;
+}
+.name_of_object{
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+}
+#camera,#result{
+    border-style: dotted;
+    height: 300px;
+    width:400px;
+    border-color: cadetblue;
+}
+#captured_image{
+   height: 200px;width: 300px;
+}
+
+    
